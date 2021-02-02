@@ -1,4 +1,4 @@
-# Invisible cloak
+# Invisible Cloak
 
 To make Harry Potter’s Invisibility Cloak, we are using OpenCV Python.
 
