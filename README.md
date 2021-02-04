@@ -18,4 +18,4 @@ Step 4: Use a plain red cloth as a cloak
 
 Enjoy the magic!
 
-Note: if you like to use a different color cloth to make invisible than you will need to set the Hue Saturation Value (HSV) accordingly.
+Note: if you like to use a different color cloth to make invisible then you will need to set the Hue Saturation Value (HSV) accordingly.
