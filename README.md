@@ -12,7 +12,7 @@ Step 1: pip install opencv-python
 
 Step 2: Run Invisible cloak.py
 
-Step 3: Give it a sec to take a snapshot of the background 
+Step 3: Give it a second to take a snapshot of the background 
 
 Step 4: Use a plain red cloth as a cloak
 
